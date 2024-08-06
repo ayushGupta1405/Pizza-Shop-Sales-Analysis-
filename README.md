@@ -46,22 +46,9 @@ The analysis provided valuable insights into customer preferences and sales tren
 To replicate the analysis:
 1. Clone the repository.
    ```bash
-   git clone https://github.com/ayushgupta1405/pizza-sales-analysis.git
+   git clone https://github.com/ayushgupta1405/pizza-shop-sales-analysis.git
    ```
 2. Import the provided SQL scripts into your MySQL database.
 3. Run the queries in the `queries.sql` file to generate the analysis results.
 
-## Repository Structure
-- `data/`: Contains sample data files.
-- `scripts/`: SQL scripts used for data analysis.
-- `results/`: Output of the analysis including key findings.
 
-## Contributing
-Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or improvements.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
-Feel free to modify any specific sections to better fit your project details or personal preferences.
