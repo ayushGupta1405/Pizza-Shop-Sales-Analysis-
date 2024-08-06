@@ -33,9 +33,9 @@ The analysis was conducted using MySQL to execute various queries that provided 
 4. **Advanced Analysis:** Calculated the percentage revenue contribution of each pizza type, analyzed cumulative revenue, and identified top 3 most ordered pizza types by revenue for each category.
 
 ## Key Findings
-- Total Orders: 1,200
-- Total Revenue: $24,000
-- Highest-Priced Pizza: Deluxe Supreme ($20)
+- Total Orders: 21350
+- Total Revenue: 817860.53
+- Highest-Priced Pizza: Deluxe Supreme 
 - Most Common Pizza Size: Medium
 - Top 5 Pizza Types: Margherita (300), Pepperoni (250), Veggie (200), BBQ Chicken (150), Hawaiian (100)
 
